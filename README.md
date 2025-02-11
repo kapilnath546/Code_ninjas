@@ -59,6 +59,24 @@ To run this project , download the zip of this project and open a new folder usi
 
 Clone and enjoy it the way it works.
 
+Here are the screenshots of the project:
+
+
+![Screenshot 2025-02-11 143557](https://github.com/user-attachments/assets/f34d76fd-a43d-4976-bad4-6f8440745c5c)
+
+![Screenshot 2025-02-11 143628](https://github.com/user-attachments/assets/c4a2e43d-7998-46c8-942b-e91ee8ada9ab)
+
+![Screenshot 2025-02-11 143657](https://github.com/user-attachments/assets/b191f7a8-6647-4062-bf3d-4f9d59e7da77)
+
+![Screenshot 2025-02-11 143736](https://github.com/user-attachments/assets/24a46b31-f7f3-4582-b20a-31bef86de4b4)
+
+![Screenshot 2025-02-11 143759](https://github.com/user-attachments/assets/fdb08d6c-53f6-4ef9-9344-0970fb51f023)
+
+![Screenshot 2025-02-11 143840](https://github.com/user-attachments/assets/3034974f-a2d5-43bb-82f8-acea3fd54b0a)
+
+
+
+
 Contact
 For further questions or suggestions, please contact:
 
